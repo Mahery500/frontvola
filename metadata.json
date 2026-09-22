@@ -1,0 +1,8 @@
+{
+  "name": "Remix ASINA Medical",
+  "description": "Plateforme hospitalière et pharmaceutique multi-sites connectée au backend Symfony avec authentification JWT et gestion granulaire des permissions RBAC",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
